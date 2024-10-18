@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+}
+
+.converter {
+    padding: 25px;
+    border: 2px solid #490320;
+    width: 80%;
+    border-radius: 8px;
+}
+
+
+input {
+    font-size: 22px;
+    padding: 3px;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.equal {
+    font-size: 30px;
+}
+
+.converter .unit {
+    gap: 27px;
+}
+
+.unit select {
+    padding: 5px;
+    width: 40%;
+    border-radius: 8px;
+}
